@@ -1,7 +1,7 @@
-                                  Ride Fare Calculator (Programming Fundamentals Project - 1st Semester )
+# Ride Fare Calculator (Programming Fundamentals Project - 1st Semester )
 
 
-Overview
+## Overview
 
 This project is a console-based Ride Fare Calculator developed in C++ as part of my Programming Fundamentals course.
 
@@ -9,7 +9,7 @@ The program allows users to choose a pickup location and a destination from pred
 
 
 
-Features
+## Features
 
 Select pickup location
 
@@ -25,7 +25,7 @@ Simple console interface
 
 
 
-Technologies Used
+## Technologies Used
 
 C++
 
@@ -35,7 +35,7 @@ Programming Fundamentals
 
 
 
-Concepts Used
+## Concepts Used
 
 Functions
 
@@ -51,11 +51,11 @@ String Handling
 
 
 
-Author
+## Author
 
-Maryam Shaukat
+### Maryam Shaukat
 
-BS Software Engineering
+### BS Software Engineering
 
-Foundation University School of Science & Technology (FUSST)
+### Foundation University School of Science & Technology (FUSST)
 
